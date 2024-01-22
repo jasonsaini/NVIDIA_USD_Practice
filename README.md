@@ -43,7 +43,7 @@ Throughout this course, I'm learning:
 
 - NVIDIA Deep Learning Institute: For hands-on training, visit [NVIDIA DLI](www.nvidia.com/dli).
 
-## Progress Updates [TODO]
+## 🚀 Progress Updates [TODO]
 
 #### Topic Covered
 
